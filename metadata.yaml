@@ -1,0 +1,43 @@
+_repo: The-boke-of-Saint-Albans-b-containing-treatises-on-hawking-hunting-and-cote-armour_71266
+_version: 0.0.1
+alternative_title: The book of St. Albans
+contributor:
+  author_of_introduction:
+    agent_name: Blades, William
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '590'
+    url: http://www.gutenberg.org/2009/agents/590
+    wikipedia: https://en.wikipedia.org/wiki/William_Blades
+creator:
+  author:
+    agent_name: Berners, Juliana
+    aliases:
+    - Barnes, Juliana
+    - Bernes, Juliana
+    gutenberg_agent_id: '49699'
+    url: http://www.gutenberg.org/2009/agents/49699
+    wikipedia: https://en.wikipedia.org/wiki/Juliana_Berners
+description: ''
+gutenberg_issued: '2023-07-24'
+identifiers:
+  gutenberg: '71266'
+language: en
+pgterms:marc904: https://archive.org/details/bokeofsaintalban00bern
+pgterms:marc905: 20190402101612berners
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bElliot Stock.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Early works to 1800'
+- !lcsh 'Falconry -- Early works to 1800'
+- !lcsh 'Heraldry -- Early works to 1800'
+- !lcc 'SK'
+- GITenberg
+title: 'The boke of Saint Albans : $b containing treatises on hawking, hunting, and
+  cote armour'
+url: http://www.gutenberg.org/ebooks/71266
