@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '590'
     url: http://www.gutenberg.org/2009/agents/590
     wikipedia: https://en.wikipedia.org/wiki/William_Blades
+covers:
+- cover_type: archival
+  image_path: 71266-h/images/cover.jpg
 creator:
   author:
     agent_name: Berners, Juliana
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49699
     wikipedia: https://en.wikipedia.org/wiki/Juliana_Berners
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71266#The-boke-of-Saint-Albans-b-containing-treatises-on-hawking-hunting-and-cote-armour
 gutenberg_issued: '2023-07-24'
 identifiers:
   gutenberg: '71266'
